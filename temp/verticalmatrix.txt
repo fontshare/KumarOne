@@ -1,0 +1,10 @@
+name:Kumar One
+weight:400
+win_a:1140
+win_d:380
+typo_a:1140
+typo_d:-380
+hhea_a:1140
+hhea_d:-380
+hhea_l:100
+typo_l:100
