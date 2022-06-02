@@ -1,0 +1,7 @@
+# KumarOne
+
+Recompiled version of KumarOne with variable support for [Fontshare](https://www.fontshare.com/).
+
+Link of the original Google Font.
+
+https://fonts.google.com/specimen/KumarOne
